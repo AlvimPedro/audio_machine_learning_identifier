@@ -1,3 +1,7 @@
+# Aprendizado de Máquina - Engenharia de Redes de Comunicação - UnB
+
+Projeto criado para identificação de sons de serra elétrica com aprendizado de máquina e dashboard interativa para evitar desmatamento de florestas monitoradas.
+
 ### Para Treinar a Rede
 ```
 ludwig experiment   --dataset audio_dataset.csv   --config_file config_file.yaml
